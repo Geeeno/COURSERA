@@ -1,0 +1,11 @@
+sample.interval=20000
+"file" "readLines" 
+"file" "readLines" 
+"readLines" 
+
+
+list.final[with(list.final, order(-))]
+
+<- c("o", "n")
+    data.ord <- data.final[with(list.final, order(-o, h)), ]
+    data.ord[1, 2]
