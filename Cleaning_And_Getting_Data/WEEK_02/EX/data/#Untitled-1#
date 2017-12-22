@@ -1,0 +1,1 @@
+y <- dtriangle(x2, proj.plan[2, 3], proj.plan[2, 5])
